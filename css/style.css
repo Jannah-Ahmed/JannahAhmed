@@ -240,7 +240,7 @@ section .section-title {
   -webkit-transition: -webkit-transform 0.2s ease-in-out;
   transition: transform 0.2s ease-in-out;
 }
-#our-services .card .block-1:before {
+#our-services .card .block-1:::before {
   content: "\f03e";
 }
 #our-services .card .block-2:before {
